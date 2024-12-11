@@ -64,7 +64,7 @@
 
     <nav>
         <a href="#home">Home</a>
-        <a href="#about">About</a>
+        <a href="about.jsp">About</a>
         <a href="#contact">Contact</a>
     </nav>
 
